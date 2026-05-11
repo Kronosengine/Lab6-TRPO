@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ZrKOodchvg=",
+  "dgSpecHash": "viE3WxonNsE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\АСД\\CalculatorApp\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CalculatorApp\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
